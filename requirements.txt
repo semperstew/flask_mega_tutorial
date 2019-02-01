@@ -1,9 +1,11 @@
 alembic==1.0.6
+Babel==2.6.0
 blinker==1.4
 certifi==2018.11.29
 Click==7.0
 dominate==2.3.5
 Flask==1.0.2
+Flask-Babel==0.12.2
 Flask-Bootstrap==3.3.7.1
 Flask-Login==0.4.1
 Flask-Mail==0.9.1
@@ -19,6 +21,7 @@ PyJWT==1.7.1
 python-dateutil==2.7.5
 python-dotenv==0.10.1
 python-editor==1.0.3
+pytz==2018.9
 six==1.12.0
 SQLAlchemy==1.2.16
 visitor==0.1.3
